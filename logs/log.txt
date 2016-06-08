@@ -1,0 +1,79 @@
+2016-06-07 16:21:31,314 INFO main (WebHttpGetTread.java:39) - 新发起1个GET请求
+2016-06-07 16:49:52,616 INFO main (WebHttpGetTread.java:37) - 新发起1个GET请求
+2016-06-07 16:49:53,373 INFO Thread-0 (WebResponse.java:62) - http://mp.weixin.qq.com/profile?src=3&timestamp=1464929502&ver=1&signature=5H9toauaebFm2Ux*y5mHevNnQrLrImyTBYj65-nNNr0sPvEFS39T3h6HxJGJ00y6RCr-UYLPOSMQYNda2LNmPQ==>>>HTTP/1.1 200 OK
+2016-06-07 16:49:53,373 INFO Thread-0 (WebResponse.java:98) - UTF-8
+2016-06-07 16:49:53,400 INFO main (WebHttpGetTread.java:37) - 新发起0个GET请求
+2016-06-07 16:50:27,358 INFO main (WebHttpGetTread.java:37) - 新发起1个GET请求
+2016-06-07 16:50:28,009 INFO Thread-0 (WebResponse.java:62) - http://mp.weixin.qq.com/profile?src=3&timestamp=1465289415&ver=1&signature=6hGMcRpJjQNV4fVMBmJV2BPusRbMTnM8qbxzmJoF9n0zJ5k5jbPSw4AKUnI4r5aZxSFlKLyRbVrF3GCGXUy25w==>>>HTTP/1.1 200 OK
+2016-06-07 16:50:28,009 INFO Thread-0 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:28,850 INFO main (WebHttpGetTread.java:37) - 新发起16个GET请求
+2016-06-07 16:50:29,034 INFO Thread-2 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078Az43vltLTqWQ3lt14m3ZdwEqvvHfV5-0fMtjTSHKIiIMm1jv5RHRdx5xZUnWqDITzW86k18WbeNF*xQ04Lt6ynU=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,034 INFO Thread-1 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078AyaT12BKeI*MUHopT46*k0EwGmNufb1XYiA7AyVzuLhEREQTIx8i-*AbFsPEZQPZkxmaE2jc950IDy6*lOcUnHU=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,035 INFO Thread-2 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:29,035 INFO Thread-1 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:29,091 INFO Thread-3 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078AyaT12BKeI*MUHopT46*k0HHA11B0P7cdD2zgp-kqoeXwpJ777u8CCqTGSOnvOx*QWMxd4Hy*ffULBpza6XeY*A=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,091 INFO Thread-3 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:29,115 INFO Thread-4 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078AyaT12BKeI*MUHopT46*k0F9*DLt9g9braZIUT8BRNNvvDNSyAwH3k*QSM98c1BtxA6*yefhem4TTy4hwTm3YOU=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,115 INFO Thread-4 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:29,166 INFO Thread-5 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078AyaT12BKeI*MUHopT46*k0GdkAPmT5U*urEXtKm0ws01ajlNiDJzHBy*UGtIGsz9rqNAalaG2OWfyr4-o8ZCiCI=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,166 INFO Thread-5 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:29,207 INFO Thread-7 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078Az43vltLTqWQ3lt14m3ZdwH7Es6smSi4yVEw86A5YhEWvgJzLrSRtE89S0oOS*Y0xY8OtyaeNHXg6snhBl*8dpw=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,208 INFO Thread-7 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:29,230 INFO Thread-9 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078Az43vltLTqWQ3lt14m3ZdwEr4--QG-F6HzQzG9NiVUv1ONC6COZZNmNbjotQ90xM56Ge9eqDnJ6CjTiR6Bi0lis=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,230 INFO Thread-9 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:29,272 INFO Thread-11 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078Az43vltLTqWQ3lt14m3ZdwHhunBiRlniAZIBN3lyjQUMXFH9wSJ5v91WRoaAjf0CVfhiPHuXM4lU1zS4Ek5Vmr0=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,273 INFO Thread-11 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:29,290 INFO Thread-13 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078AyaT12BKeI*MUHopT46*k0E9xLvKxTK5GRXS2lNQ4gZS4HVA1aVxSUI5*D3KVo7iEk6dZUQeVrTsrVHQomh4Ofc=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,291 INFO Thread-13 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:29,356 INFO Thread-15 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078Az43vltLTqWQ3lt14m3ZdwF5jSa*p7RubZNW3wbektEgW-9vvjOOIEBnbC0bj7SoxMMGsGbIzlNWyyQ55SXSAwk=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,357 INFO Thread-15 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:29,371 INFO Thread-6 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078Az43vltLTqWQ3lt14m3ZdwGWfiWNngPkOcmamG-uAlhpPeROfk8uIMXpw9D7jBBwZOZJ3kkVP21uNCrYiFyhbJc=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,371 INFO Thread-6 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:29,430 INFO Thread-10 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078AyaT12BKeI*MUHopT46*k0E8C6ub-SU3btnePTPpz1yV8KrciQ5EFFu50GdVsuiyzygtR7PDfjbu9yRU5o9fE68=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,431 INFO Thread-10 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:29,466 INFO Thread-14 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078Az43vltLTqWQ3lt14m3ZdwGGGsREEIYl2772TnF4zwA1SAI68uxQcNRjk8TRfUrFKCDUDFKAzYECXSHGSwn9M6E=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,467 INFO Thread-14 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:29,508 INFO Thread-8 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078AyaT12BKeI*MUHopT46*k0GrF9TT5I2bVe9Ad0Cvi*DTk8ZaUg*99uPCLjUrTFPPMp562VxSwdsOoLeQsb9gFLM=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,508 INFO Thread-8 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:29,520 INFO Thread-12 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078Az43vltLTqWQ3lt14m3ZdwHdPxlZuFqo38MXLx8kELgX0lER3m5MIBy*P7kkIyji0fnlEZIDxfWEboF*zoYfLBQ=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,521 INFO Thread-12 (WebResponse.java:98) - UTF-8
+2016-06-07 16:50:29,578 INFO Thread-16 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289428&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFqXyQb336TxEpOf1wcDIkv8qAUZRCjatcWBg8*ijgbTEeliCxmielg*nsMR8*078AyaT12BKeI*MUHopT46*k0HOAYUVm5O5wv1zGyd6ZTAlliTPGi181rDxSymuxYlJEZtsGyPhd6ATcfi82acDvHM=>>>HTTP/1.1 200 OK
+2016-06-07 16:50:29,579 INFO Thread-16 (WebResponse.java:98) - UTF-8
+2016-06-07 16:51:17,997 INFO main (WebHttpGetTread.java:37) - 新发起1个GET请求
+2016-06-07 16:51:18,524 INFO Thread-0 (RetryExec.java:96) - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://mp.weixin.qq.com:80: The target server failed to respond
+2016-06-07 16:51:18,525 INFO Thread-0 (RetryExec.java:112) - Retrying request to {}->http://mp.weixin.qq.com:80
+2016-06-07 16:51:18,841 INFO Thread-0 (WebResponse.java:62) - http://mp.weixin.qq.com/profile?src=3&timestamp=1465289415&ver=1&signature=6hGMcRpJjQNV4fVMBmJV2BPusRbMTnM8qbxzmJoF9n0zJ5k5jbPSw4AKUnI4r5aZxSFlKLyRbVrF3GCGXUy25w==>>>HTTP/1.1 200 OK
+2016-06-07 16:51:18,842 INFO Thread-0 (WebResponse.java:98) - UTF-8
+2016-06-07 16:51:19,673 INFO main (WebHttpGetTread.java:37) - 新发起1个GET请求
+2016-06-07 16:51:19,783 INFO Thread-1 (WebResponse.java:62) - http://mp.weixin.qq.com/s?timestamp=1465289478&src=3&ver=1&signature=BizwhPf9iED38btYs7XQFkQ-TcmFhu97vdw*ZwJ1GNuoEMz8SWuFX86SIlZdxgjp-XJDafe6cvVVcWvvsDGjPmfTmIPxSRlDq3hrybRCiUzaX1Iuc3C8dY0K9SSqiDDenNbyVVJZRVLyp6fAMu1-qKEBK9hmD1yGe-oXjaAJQcU=>>>HTTP/1.1 200 OK
+2016-06-07 16:51:19,784 INFO Thread-1 (WebResponse.java:98) - UTF-8
+2016-06-07 16:51:27,952 INFO main (WebHttpGetTread.java:37) - 新发起1个GET请求
+2016-06-07 16:51:28,537 INFO Thread-0 (WebResponse.java:62) - http://mp.weixin.qq.com/profile?src=3&timestamp=1465289415&ver=1&signature=6hGMcRpJjQNV4fVMBmJV2BPusRbMTnM8qbxzmJoF9n0zJ5k5jbPSw4AKUnI4r5aZxSFlKLyRbVrF3GCGXUy25w==>>>HTTP/1.1 200 OK
+2016-06-07 16:51:28,537 INFO Thread-0 (WebResponse.java:98) - UTF-8
+2016-06-07 16:51:29,362 INFO main (WebHttpGetTread.java:37) - 新发起0个GET请求
+2016-06-07 16:52:05,516 INFO main (WebHttpGetTread.java:37) - 新发起1个GET请求
+2016-06-07 16:52:06,009 INFO Thread-0 (RetryExec.java:96) - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://mp.weixin.qq.com:80: The target server failed to respond
+2016-06-07 16:52:06,010 INFO Thread-0 (RetryExec.java:112) - Retrying request to {}->http://mp.weixin.qq.com:80
+2016-06-07 16:52:06,193 INFO Thread-0 (WebResponse.java:62) - http://mp.weixin.qq.com/profile?src=3&timestamp=1465289511&ver=1&signature=6hGMcRpJjQNV4fVMBmJV2BPusRbMTnM8qbxzmJoF9n0zJ5k5jbPSw4AKUnI4r5aZdjVtlmwVvHtyMhPe6TYL1w==>>>HTTP/1.1 200 OK
+2016-06-07 16:52:06,193 INFO Thread-0 (WebResponse.java:98) - UTF-8
+2016-06-07 16:52:07,023 INFO main (WebHttpGetTread.java:37) - 新发起0个GET请求
+2016-06-07 16:52:18,483 INFO main (WebHttpGetTread.java:37) - 新发起1个GET请求
+2016-06-07 16:52:19,089 INFO Thread-0 (WebResponse.java:62) - http://mp.weixin.qq.com/profile?src=3&timestamp=1465289511&ver=1&signature=6hGMcRpJjQNV4fVMBmJV2BPusRbMTnM8qbxzmJoF9n0zJ5k5jbPSw4AKUnI4r5aZdjVtlmwVvHtyMhPe6TYL1w==>>>HTTP/1.1 200 OK
+2016-06-07 16:52:19,089 INFO Thread-0 (WebResponse.java:98) - UTF-8
+2016-06-07 16:52:19,906 INFO main (WebHttpGetTread.java:37) - 新发起0个GET请求
+2016-06-07 16:53:07,958 INFO main (WebHttpGetTread.java:37) - 新发起1个GET请求
+2016-06-07 16:53:09,018 INFO Thread-0 (WebResponse.java:62) - http://mp.weixin.qq.com/profile?src=3&timestamp=1465289511&ver=1&signature=6hGMcRpJjQNV4fVMBmJV2BPusRbMTnM8qbxzmJoF9n0zJ5k5jbPSw4AKUnI4r5aZdjVtlmwVvHtyMhPe6TYL1w==>>>HTTP/1.1 200 OK
+2016-06-07 16:53:09,018 INFO Thread-0 (WebResponse.java:98) - UTF-8
+2016-06-07 16:53:09,843 INFO main (WebHttpGetTread.java:37) - 新发起0个GET请求
+2016-06-07 16:54:20,244 INFO main (WebHttpGetTread.java:37) - 新发起1个GET请求
+2016-06-07 16:54:20,838 INFO Thread-0 (WebResponse.java:62) - http://mp.weixin.qq.com/profile?src=3&timestamp=1465289511&ver=1&signature=6hGMcRpJjQNV4fVMBmJV2BPusRbMTnM8qbxzmJoF9n0zJ5k5jbPSw4AKUnI4r5aZdjVtlmwVvHtyMhPe6TYL1w==>>>HTTP/1.1 200 OK
+2016-06-07 16:54:20,838 INFO Thread-0 (WebResponse.java:98) - UTF-8
+2016-06-07 16:54:21,667 INFO main (WebHttpGetTread.java:37) - 新发起0个GET请求
+2016-06-07 16:55:50,056 INFO main (WebHttpGetTread.java:37) - 新发起1个GET请求
+2016-06-07 16:55:50,679 INFO Thread-0 (WebResponse.java:62) - http://mp.weixin.qq.com/profile?src=3&timestamp=1465289511&ver=1&signature=6hGMcRpJjQNV4fVMBmJV2BPusRbMTnM8qbxzmJoF9n0zJ5k5jbPSw4AKUnI4r5aZdjVtlmwVvHtyMhPe6TYL1w==>>>HTTP/1.1 200 OK
+2016-06-07 16:55:50,680 INFO Thread-0 (WebResponse.java:98) - UTF-8
+2016-06-07 16:55:51,512 INFO main (WebHttpGetTread.java:37) - 新发起0个GET请求
+2016-06-07 16:56:36,783 INFO main (WebHttpGetTread.java:37) - 新发起1个GET请求
+2016-06-07 16:56:37,462 INFO Thread-0 (WebResponse.java:62) - http://mp.weixin.qq.com/profile?src=3&timestamp=1465289511&ver=1&signature=6hGMcRpJjQNV4fVMBmJV2BPusRbMTnM8qbxzmJoF9n0zJ5k5jbPSw4AKUnI4r5aZdjVtlmwVvHtyMhPe6TYL1w==>>>HTTP/1.1 200 OK
+2016-06-07 16:56:37,463 INFO Thread-0 (WebResponse.java:98) - UTF-8
+2016-06-07 16:56:38,281 INFO main (WebHttpGetTread.java:37) - 新发起0个GET请求
